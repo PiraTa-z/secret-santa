@@ -9,7 +9,7 @@ namespace SecretSanta.EmailService
     {
         private const string Mail = "secret.tovlisbabua@gmail.com";
 
-        private const string Password = "ylearavarexla?";
+        private const string Password = "";
         
         private const string Subject = "ჯადოსნური დღესასწაული";
         
