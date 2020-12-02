@@ -31,7 +31,7 @@ namespace SecretSanta.Participants
                 },
                 new Participant
                 {
-                    Email = "",
+                    Email = "tkhotivari@gmail.com",
                     Name = "თათული ხოტივარი"
                 },
                 new Participant

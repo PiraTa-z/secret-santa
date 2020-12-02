@@ -2,7 +2,6 @@
 using SecretSanta.EmailService;
 using SecretSanta.GeneratorService;
 using SecretSanta.Participants;
-using System;
 using System.Collections.Generic;
 
 namespace SecretSanta
