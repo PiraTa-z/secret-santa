@@ -30,8 +30,6 @@ namespace SecretSanta.EmailService
 
         public void Send(KeyValuePair<Participant, Participant> pair, string htmlBody)
         {
-            System.Console.WriteLine(pair.Key.Email);
-
             var mailMessage = new MailMessage(Mail, pair.Key.Email, Subject, htmlBody)
             {
                 IsBodyHtml = true,
