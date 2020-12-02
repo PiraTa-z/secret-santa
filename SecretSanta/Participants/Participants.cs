@@ -7,7 +7,7 @@ namespace SecretSanta.Participants
     {
         public Participants()
         {
-            Get = new List<Participant> 
+            Get = new List<Participant>
             {
                 new Participant
                 {
@@ -56,7 +56,7 @@ namespace SecretSanta.Participants
                 },
                 new Participant
                 {
-                    Email = "",
+                    Email = "nutsa.ishkhneli@gmail.com",
                     Name = "ნუცა იშხნელი"
                 },
             };

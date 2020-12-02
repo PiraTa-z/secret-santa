@@ -11,8 +11,7 @@ namespace SecretSanta.Participants
             {
                 new Cheating
                 {
-                    For = "zarandia.irakli@gmail.com",
-                    To = ""
+                    
                 }
             };
 
